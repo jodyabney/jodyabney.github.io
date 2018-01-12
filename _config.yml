@@ -88,7 +88,7 @@ author:
   avatar           : /assets/images/Headshot_Edited_INSPIRE.jpg
   bio              : "I am an amazing person."
   location         : "Somewhere"
-  email            :
+  email            : # need to research if i use a real email or formatted email to prevent spam
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
